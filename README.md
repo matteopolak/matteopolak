@@ -2,7 +2,7 @@
 
 Currently seeking **Summer 2023 Internship** opportunities!
 
-- 🔭 I’m currently working on **[baerscript](https://github.com/matteopolak/baerscript)**
+- 🔭 I’m currently working on **[baerscript](https://github.com/matteopolak/baerscript)** and **[my portfolio](https://matteopolak.github.io/)**
 - 🌱 I’m currently learning **Rust 🦀** and **C++ 📟**
 - 💬 Ask me for my résumé!
 - 📫 How to reach me:
