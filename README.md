@@ -2,7 +2,7 @@
 
 Currently seeking **Summer 2023 Internship** opportunities!
 
-- 🔭 I’m currently working on **[tcd](https://github.com/matteopolak/tcd)** and **[my portfolio](https://matteopolak.com)**
+- 🔭 I’m currently working on **[chat-generator](https://github.com/matteopolak/chat-generator)** and **[algorithms](https://github.com/matteopolak/algorithms)**
 - 🌱 I’m currently learning **Go 🐿️**
 - 💬 Ask me for my résumé!
 - 📫 How to reach me:
