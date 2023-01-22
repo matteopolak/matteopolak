@@ -2,7 +2,7 @@
 
 Currently seeking **Summer 2023 Internship** opportunities!
 
-- 🔭 I’m currently working on **[geonotes](https://github.com/matteopolak/geonotes)** and **[algorithms](https://github.com/matteopolak/algorithms)**
+- 🔭 I’m currently working on **[minecraft](https://github.com/matteopolak/minecraft)** and **[minecraft-backend](https://github.com/matteopolak/minecraft-backend)**
 - 🌱 I’m currently learning **Flutter 🐦**
 - 💬 Ask me for my résumé!
 - 📫 How to reach me:
