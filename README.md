@@ -1,4 +1,4 @@
-![profile banner](./assets/banner.png)
+![Hi there, I'm Matthew](./assets/banner.png)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/matteopolak)
 
 Currently seeking **Summer 2023 Internship** opportunities!
