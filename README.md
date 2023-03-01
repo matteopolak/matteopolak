@@ -1,4 +1,5 @@
-### Hi there, I'm Matthew 👋
+![profile banner](./assets/banner.png)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/matteopolak)
 
 Currently seeking **Summer 2023 Internship** opportunities!
 
