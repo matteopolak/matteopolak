@@ -9,3 +9,11 @@ Currently seeking **Summer 2023 Internship** opportunities!
 - 📫 How to reach me:
   - **[@matteo-polak](https://linkedin.com/in/matteo-polak)** on LinkedIn 💼
   - Send an e-mail to **[contact@matteopolak.com](mailto:contact@matteopolak.com)**
+
+🌟 **Achievements**
+
+- 2022 Skills Ontario Coding Competition Winner
+- 2023 HackTheHill Hackathon
+  - Cienna Major Prize Winner
+  - Best Developer Experience Minor Prize Winner
+  - Best Cybersecurity Project Minor Prize Winner
