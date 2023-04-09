@@ -13,7 +13,12 @@ Currently seeking **Summer 2023 Internship** opportunities!
 🌟 **Achievements**
 
 - 2022 Skills Ontario Coding Competition Winner
-- 2023 HackTheHill Hackathon
-  - Cienna Major Prize Winner
-  - Best Developer Experience Minor Prize Winner
-  - Best Cybersecurity Project Minor Prize Winner
+- 2023 **[HackTheHill](https://hack-the-hill.devpost.com/)** Hackathon
+  - 1st Place (Ciena track)
+  - Best Developer Experience
+  - Best Cybersecurity Project
+- 2023 **[MLH x {all in}](https://all-in-hackathon.devpost.com/)** Hackathon
+  - 1st Place
+- 2023 **[MapHacks 2](https://maphacks-2.devpost.com/)** Hackathon
+  - 2nd Place
+  - Best Sustainable Travel Hack
