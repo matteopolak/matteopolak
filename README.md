@@ -20,5 +20,5 @@ Currently seeking **Summer 2023 Internship** opportunities!
 - 2023 **[MLH x {all in}](https://all-in-hackathon.devpost.com/)** Hackathon
   - 1st Place
 - 2023 **[MapHacks 2](https://maphacks-2.devpost.com/)** Hackathon
-  - 2nd Place
+  - 1st Place
   - Best Sustainable Travel Hack
