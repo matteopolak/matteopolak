@@ -1,8 +1,6 @@
 ![Hi there, I'm Matthew](./assets/banner.png)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/matteopolak)
 
-Currently seeking **Summer 2023 Internship** opportunities!
-
 - 🔧 I’m currently working on **[RecipeNLG Index](https://github.com/matteopolak/recipes)**
 - 📚 I’m currently learning **Qdrant 📏** and **InfluxDB 🕒**
 - 📝 Ask me for my résumé!
