@@ -1,8 +1,7 @@
 ![Hi there, I'm Matthew](./assets/banner.png)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/matteopolak)
 
-- 🔧 I’m currently working on **[RecipeNLG Index](https://github.com/matteopolak/recipes)**
-- 📚 I’m currently learning **[Qdrant 📏](https://qdrant.tech)** and **[Zig ⚡](https://ziglang.org)**
+- 🔧 I’m currently working on **[Noteboard](https://noteboard.matteopolak.com)**
 - 📝 Ask me for my résumé!
 - 📧 How to reach me:
   - **[@matteo-polak](https://linkedin.com/in/matteo-polak)** on LinkedIn 💼
