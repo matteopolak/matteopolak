@@ -1,7 +1,7 @@
 ![Hi there, I'm Matthew](./assets/banner.png)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/matteopolak)
 
-- 🔧 I’m currently working on **[Noteboard](https://noteboard.matteopolak.com)**
+- 🔧 I'm currently working on **[Crave](https://crave.matteopolak.com)**
 - 📝 Ask me for my résumé!
 - 📧 How to reach me:
   - **[@matteo-polak](https://linkedin.com/in/matteo-polak)** on LinkedIn 💼
